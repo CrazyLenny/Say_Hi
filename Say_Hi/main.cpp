@@ -11,6 +11,8 @@ using namespace std;
 
 int main() {
 	cout << "Say Hi! GIT Kexin!" << endl;
+
+	cout << "How to change? Test 1." << endl;
 }
 
 
