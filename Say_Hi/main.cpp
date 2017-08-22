@@ -14,6 +14,8 @@ int main() {
 
 	cout << "How to change? Test 1." << endl;
 	cout << "How to change? Test 2." << endl;
+	cout << "How to change? From PC" << endl;
+
 
 }
 
