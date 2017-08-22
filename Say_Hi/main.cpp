@@ -17,6 +17,7 @@ int main() {
 	cout << "How to change? From PC" << endl;
 	cout << "To change, from office" << endl;
 	cout << "Last try from PC" << endl;
+	cout << "Last try from office" << endl;
 }
 
 
